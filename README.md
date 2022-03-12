@@ -4,9 +4,9 @@
 <a href="https://github.com/Gonzagadavid">David Gonzaga</a> / <a href="https://github.com/Patricialvarenga">Patricia Silvestre</a> / <a href="https://github.com/antoniomalato">Antonio Malato</a> / <a href="https://github.com/pedro21medeiros">Pedro Medeiros</a> / <a href="https://github.com/Gabriela-Guerra">Gabriela Guerra</a>
 
 <div align="center">
-  <img src="./public/images/app.gif" alt="gif do projeto">
-  <img src="./public/images/app2.gif" alt="gif do projeto">
-  <img src="./public/images/app3.gif" alt="gif do projeto">
+  <img src="./public/app.gif" alt="gif do projeto">
+  <img src="./public/app2.gif" alt="gif do projeto">
+  <img src="./public/app3.gif" alt="gif do projeto">
 </div>
 <br>
 
